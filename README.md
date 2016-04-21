@@ -2,5 +2,5 @@
 Final Project Prototype Proposal
 
 
-CUCHARO, Donnald
+CUCHARO, Donnald<br>
 GALLARDO, Ronald Joshua
