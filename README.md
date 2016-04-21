@@ -1,2 +1,6 @@
 # ICS-113
-Web Programming Course
+Final Project Prototype Proposal
+
+
+CUCHARO, Donnald
+GALLARDO, Ronald Joshua
